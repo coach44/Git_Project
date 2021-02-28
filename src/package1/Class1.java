@@ -5,7 +5,7 @@ public class Class1 {
 		System.out.println("1 gun saat 11:15");
 		System.out.println(" second commit ");
 		System.out.println("10:11 - ikinci gun");
-
+                System.out.println("10:35 - ikinci gun");
 		
 	}
 

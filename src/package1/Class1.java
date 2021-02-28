@@ -6,7 +6,8 @@ public class Class1 {
 		System.out.println(" second commit ");
 		System.out.println("10:11 - ikinci gun");
                 System.out.println("11:11 - github.com");
-                System.out.println("comflict olurmu");
+		System.out.println("11:21 - comflict is coming or not ");
+
 	}
 
 }

@@ -1,11 +1,10 @@
 package package1;
-
 public class Class1 {
 	
 	public static void main(String[] args) {
-		
 		System.out.println("1 gun saat 11:15");
-		System.out.println("2.GUN ");
+		System.out.println(" second commit ");
+		System.out.println("10:11 - ikinci gun");
 		
 		
 	}
